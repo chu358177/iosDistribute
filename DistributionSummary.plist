@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>系统总控_通用1.1.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>96973598F4D65DC9936DD211C3A1424D01B30F77</string>
+				<key>dateExpires</key>
+				<string>2020/11/25</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8JB58N5QC2.com.vrfab.UniWebInputUniversal</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8JB58N5QC2</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>8JB58N5QC2.com.vrfab.UniWebInputUniversal</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>UniWebInputUniversal.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>09a7227b-8ee4-418b-a187-6d19705d2dd5</string>
+				<key>name</key>
+				<string>XCWildcard</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8JB58N5QC2</string>
+				<key>name</key>
+				<string>Lin Jing</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
